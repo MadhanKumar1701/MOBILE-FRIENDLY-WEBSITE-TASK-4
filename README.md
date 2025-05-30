@@ -23,4 +23,4 @@ Built with a focus on mobile responsiveness.
 ![Mobile View](images/mobile-view.png)
 
 ## 🔗 Live Preview
-(Optional: Deploy via GitHub Pages or Netlify)
+https://madhankumar1701.github.io/MOBILE-FRIENDLY-WEBSITE-TASK-4/
