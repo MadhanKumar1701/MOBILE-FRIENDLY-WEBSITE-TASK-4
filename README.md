@@ -17,10 +17,10 @@ Built with a focus on mobile responsiveness.
 ## 📷 Screenshots
 
 ## 💻 Desktop View
-![Desktop View](desktop-view.png)
+![Desktop View](images/desktop-view.png)
 
 ## 📱 Mobile View
-![Mobile View](mobile-view.png)
+![Mobile View](images/mobile-view.png)
 
 ## 🔗 Live Preview
 (Optional: Deploy via GitHub Pages or Netlify)
